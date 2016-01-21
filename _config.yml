@@ -47,11 +47,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 520 Beacon Lake Drive, Apt. 7
+  - line: Mason, MI 48854
 
 # Credits content
-credits: 'Freelancer Theme by <a target="_blank" href="http://startbootstrap.com">Start Bootstrap</a>.<br/>Spiced up by <a target="_blank" href="http://technicalrex.com">Technical Rex</a>.'
+credits: 'Freelancer Theme by <a target="_blank" href="http://startbootstrap.com">Start Bootstrap</a>.<br/>Spiced up by <a target="_blank" href="http://technicalrex.com">Erik Gillespie</a>.'
 
 # Build settings
 markdown: kramdown
